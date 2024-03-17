@@ -2,7 +2,7 @@ a <- 5
 b <- 10
 if (a>b){
   print("A is greater than B")
-}else if (a<b){
+}else if (a<b){              #won't work if written after presseing enter 
   print("B is greater than A")
 }else{
   print("A=B")
