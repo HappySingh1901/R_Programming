@@ -62,6 +62,7 @@ for (i in colour){
 #for with if else
 dice <- 1:6
 
+
 for(x in dice) {
   if (x == 6) {
     print(paste("The dice number is", x, "kitna ludo khelega bhai"))
