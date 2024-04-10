@@ -41,3 +41,7 @@ print(vector11%/%vector12)
 vector13 <- c(2,4,8.5)
 vector14 <- c(6,9.7,2)
 print(vector13^vector14)
+
+v <- c(3,1,TRUE,2+3i)
+t <- c(4,1,FALSE,2+3i)
+print(v&t)
