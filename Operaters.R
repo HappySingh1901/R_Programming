@@ -52,3 +52,7 @@ print(v|t)
 
 v <- c(3,0,TRUE,2+2i)
 print(!v)
+
+v <- c(3,0,TRUE,2+2i)
+t <- c(1,3,TRUE,2+3i)
+print(v&&t)
