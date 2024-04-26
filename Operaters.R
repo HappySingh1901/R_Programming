@@ -68,3 +68,6 @@ v3 = c(3,1,TRUE,2+3i)
 print(v1)
 print(v2)
 print(v3)
+
+v <- 2:8
+print(v) 
