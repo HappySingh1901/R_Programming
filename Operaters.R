@@ -60,3 +60,11 @@ print(v&&t)
 v <- c(0,0,TRUE,2+2i)
 t <- c(0,3,TRUE,2+3i)
 print(v||t)
+
+
+v1 <- c(3,1,TRUE,2+3i)
+v2 <<- c(3,1,TRUE,2+3i)
+v3 = c(3,1,TRUE,2+3i)
+print(v1)
+print(v2)
+print(v3)
