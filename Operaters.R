@@ -77,3 +77,8 @@ v2 <- 12
 t <- 1:10
 print(v1 %in% t) 
 print(v2 %in% t) 
+
+v <- c(2,5.5,6,9)
+t <- c(8,2.5,14,9)
+print(v>t)
+
