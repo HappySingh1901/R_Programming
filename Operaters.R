@@ -71,3 +71,9 @@ print(v3)
 
 v <- 2:8
 print(v) 
+
+v1 <- 8
+v2 <- 12
+t <- 1:10
+print(v1 %in% t) 
+print(v2 %in% t) 
