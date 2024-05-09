@@ -6,3 +6,5 @@ barplot(a,main="Temp",xlab="Month",ylab="value",col="blue",names.arg=c("jan","fe
 
 b<-c(1,2,3,4,5,6,7,8,9,10)
 barplot(b,main="Ascending",xlab="Order",ylab="Value",names.arg=c("A","B","C","D","E","F","G","H","I","J"),col="green")
+
+
